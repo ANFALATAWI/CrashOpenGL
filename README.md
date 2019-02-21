@@ -2,7 +2,7 @@
 This project renders the Crash Bandicoot character using the Java library OpenGL.
 It draws crash using primitive shapes.
 
-[Run preview](https://github.com/ANFALATAWI/CrashOpenGL/blob/master/Sample_run.PNG)
+![Run preview](https://github.com/ANFALATAWI/CrashOpenGL/blob/master/Sample_run.PNG)
 
 To run this project:
 ## Prerequsites
