@@ -1,7 +1,7 @@
 # CrashOpenGL
 This project draws the Crash Bandicoot character using the Java library OpenGL.
 
-[Preview](https://github.com/ANFALATAWI/CrashOpenGL/blob/master/Sample_run.PNG)
+[Preview](https://github.com/ANFALATAWI/CrashOpenGL/blob/master/Sample_run.PNG?raw=true "Title")
 
 To run this project:
 ## System Requirements
