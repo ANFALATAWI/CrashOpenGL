@@ -10,4 +10,4 @@ To run this project:
 * [OpenGL](http://plugins.netbeans.org/plugin/3260/netbeans-opengl-pack)
 
 ## Run
-To run this project simply run the 'Crash/src/org/yourorghere/Crash.java' java file in netbeans (shortcut F6).
+To run this project simply run the `Crash/src/org/yourorghere/Crash.java` java file in netbeans (shortcut F6).
