@@ -1,5 +1,5 @@
 # CrashOpenGL
-This project renders the Crash Bandicoot character using the OpenGL Java library.
+This project renders the Crash Bandicoot character in 2D using the OpenGL Java library.
 It draws Crash using primitive shapes (quads, polygons, circles... etc.).
 
 ![Run preview](https://github.com/ANFALATAWI/CrashOpenGL/blob/master/Sample_run.PNG)
